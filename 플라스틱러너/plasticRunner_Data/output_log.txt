@@ -1,0 +1,23 @@
+Initialize engine version: 4.3.2f1 (0517a5ae8669)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 30.0.15.1278]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ygh\Documents\플라스틱러너\plasticRunner_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ygh\Documents\플라스틱러너\plasticRunner_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ygh\Documents\플라스틱러너\plasticRunner_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ygh\Documents\플라스틱러너\plasticRunner_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.106 seconds
+desktop: 2560x1440 144Hz; virtual: 2560x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.244900 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 459.
+Total: 0.770500 ms (FindLiveObjects: 0.010500 ms CreateObjectMapping: 0.008200 ms MarkObjects: 0.127900 ms  DeleteObjects: 0.007100 ms)
+
