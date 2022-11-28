@@ -11,7 +11,7 @@ $ git branch
 $ git checkout [브랜치명]
 $ git checkout -b [브랜치명]  # 브랜치만들고 바로 이동
 ```
-*브랜치 삭제
+* 브랜치 삭제
 ```
 $ git branch -d 브랜치명
 ```
