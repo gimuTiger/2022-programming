@@ -15,7 +15,7 @@ $ git commit -a -m "[메시지명]"
 $ git log
 $ git log --pretty=oneline   # 한줄로 표기하기
 ```
-특정 커밋 내역 확인
+* 특정 커밋 내역 확인
 ```
 $ git show [커밋 id]
 ```
