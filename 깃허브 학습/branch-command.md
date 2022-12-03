@@ -37,4 +37,3 @@ $ git merge [브랜치명] --no-edit // 커밋 메시지 수정없이 바로 병
 ```
 $ git merge --abort
 ```
-
