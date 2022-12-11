@@ -14,4 +14,3 @@ $ git config --global user.email "[사용자이메일명]"
 ```
 $ git status
 ```
-
