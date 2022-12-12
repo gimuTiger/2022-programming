@@ -8,3 +8,4 @@
 ![image](https://user-images.githubusercontent.com/119717459/205476318-0c8b01a6-9446-4c2a-bbf6-84d839dfe3db.png)
 
 ## 4. 보드를 움직여 일정을 체크할 수 있음
+
