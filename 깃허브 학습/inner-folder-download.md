@@ -27,4 +27,3 @@ echo "NavigationAdvancedSample/*" > .git/info/sparse-checkout
 ```
 git pull origin main
 ```
-
